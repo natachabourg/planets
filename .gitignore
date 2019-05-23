@@ -4,4 +4,7 @@ results/
 
 *.pdf
 
+!logo.pdf
+
 .DS_Store
+
